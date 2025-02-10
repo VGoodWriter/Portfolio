@@ -1,4 +1,6 @@
 # Portfolio
 Writing, editing, and coding done outside work hours.
 
-In the last five years I have spent a significant amount of time learning new skills. This means learning to code a little bit in C, and using those skills to learn how to read any other programming language required for my positions. You'll find those small programs in this folder as well as many items I've edited and created for friends. Working for the government means a lot of my documentation is proprietary and need-to-know only, so I am unable to share those items outside the teams I worked for. 
+The work I have done professionally is, unfortunately, need-to-know only as it was written for the US Navy and US Marine Corps. Because I am a person quick to offer help and guidance, my friends often depend on me to help them with resumes, cover letters, and crucial school work. Thus, the majority of the documentation you'll find here has been done for others. 
+
+The original work you'll find in this folder was written for Jack Rhysider as either a writing test or the full video script. Because YouTube is an informal medium, Jack asked me to write his script in an unconventional format so he could read it on the page without the typical script formatting. 
