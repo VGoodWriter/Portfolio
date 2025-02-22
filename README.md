@@ -1,5 +1,4 @@
 # Portfolio
-Writing, editing, and coding done outside work hours.
 
 The work I have done professionally is, unfortunately, need-to-know only as it was written for the US Navy and US Marine Corps. Because I am a person quick to offer help and guidance, my friends often depend on me to help them with resumes, cover letters, and crucial school work. Thus, the majority of the documentation you'll find here has been done for others. 
 
