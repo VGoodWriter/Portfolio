@@ -1,4 +1,4 @@
-# Project Proposal: Operational Excellence - Strategic Process & Documentation Initiative
+# Project Proposal: Strategic Process & Documentation Initiative
 
 ## 1.0 Introduction: The Imperative for Continued Investment
 
