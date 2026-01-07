@@ -1,6 +1,6 @@
 # Process Manual Template
 
-| Document Information |
+| Document Information | |
 |--|--|
 | Document Title | - |
 | Document ID Number | - |
@@ -14,7 +14,7 @@
 | Reviewed By | - |
 | Audience | - |
 
-|  Document Information  |
+|  Document Information  | |
 |-----------|-------------|
 | Purpose | A brief, one- or two-sentence summary of the instruction's goal. What is the task, and why is it important? |
 | Scope | Specifies which teams, departments, or areas the instruction applies to. It also may clarify what is not covered by the document. |
