@@ -53,7 +53,7 @@ Key Deliverables:
 - A unified set of processes for the team.
 - A defined RACI (Responsible, Accountable, Consulted, Informed) model for each document to establish clear ownership and accountability.
 - A formal system for end-to-end documentation audits tied directly to GRC requirements.
-- 
+
 ### End-to-End Process Audit and Optimization
 
 This step is designed to create full transparency into how a team functions and to ensure that all processes are effective, actively maintained, and consistently followed.
@@ -81,7 +81,7 @@ Key Deliverables:
 - Implementation or enhancement of project management tools (e.g., Jira, Monday.com) to manage reviews, updates, and new documentation requests via a formal ticketing system.
 - Establishment of a secure, single-source-of-truth document repository.
 - A formal change management process to ensure the successful adoption of new processes and documentation standards across the organization.
-- 
+
 Successful execution of these workstreams is contingent upon securing the necessary expert resources and leadership commitment.
 
 ## 6.0 Required Resources and Leadership Support
