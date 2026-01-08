@@ -100,11 +100,11 @@ To ensure continuity and leverage the deep contextual knowledge gained during th
 
 In addition to the core project team, the following commitments from leadership are critical for success:
 
-- Leadership Buy-in and Support: Formal project approval and visible sponsorship from senior leadership are required to signal the strategic importance of this initiative.
-- SME Time Allocation: Leadership must formally allocate time for Subject Matter Experts to meet with, provide input to, and collaborate with the process team. Without this allocation, there can be no guarantee to document quality.
-- Formal Team Integration: To maximize effectiveness, the consulting team must be formally embedded within the organization. This means formal introduction, inclusion in at least one weekly team meeting, and the ability to attend one leadership meeting per month to provide updates and maintain alignment.
-- Unrestricted Information Access: The project team must be granted access to all team members for process verification and receive complete disclosure of all existing documentation—even sticky notes on desktops—to ensure a complete and accurate picture.
-- 
+- **Leadership Buy-in and Support:** Formal project approval and visible sponsorship from senior leadership are required to signal the strategic importance of this initiative.
+- **SME Time Allocation:** Leadership must formally allocate time for Subject Matter Experts to meet with, provide input to, and collaborate with the process team. Without this allocation, there can be no guarantee to document quality.
+- **Formal Team Integration:** To maximize effectiveness, the consulting team must be formally embedded within the organization. This means formal introduction, inclusion in at least one weekly team meeting, and the ability to attend one leadership meeting per month to provide updates and maintain alignment.
+- **Unrestricted Information Access:** The project team must be granted access to all team members for process verification and receive complete disclosure of all existing documentation—even sticky notes on desktops—to ensure a complete and accurate picture.
+
 These resources will be deployed over a strategic, multi-phase timeline to ensure thoroughness and sustainable results.
 
 ## 7.0 Proposed Project Timeline
@@ -114,10 +114,10 @@ The complexity and strategic nature of this initiative requires a dedicated, mul
 The time required to complete the initial core deliverables requires a minimum of 18-24 months. Following this, many of the activities will transition into ongoing, sustainable processes that are part of the team's standard operating rhythm.
 
 A high-level timeline for the major workstreams is as follows:
-- Initial Document Discovery and Planning: 6 months for full disclosure of all documents, edits, style guide creation, and basic process implementation.
-- GRC & Documentation Audits: 6-12 months for the initial end-to-end audit, followed by an ongoing review cycle.
-- Full SDT Function Audit: 6 months for a comprehensive audit, followed by an ongoing maintenance and review cycle.
-- New Hire Onboarding & Refresher Training Development: 8-12 months to develop and deploy the initial programs, followed by ongoing updates based on user response and quarterly delivery. 
+- **Initial Document Discovery and Planning:** 6 months for full disclosure of all documents, edits, style guide creation, and basic process implementation.
+- **GRC & Documentation Audits:** 6-12 months for the initial end-to-end audit, followed by an ongoing review cycle.
+- **Full Functional Audit:** 6 months for a comprehensive audit, followed by an ongoing maintenance and review cycle.
+- **New Hire Onboarding & Refresher Training Development:** 8-12 months to develop and deploy the initial programs, followed by ongoing updates based on user response and quarterly delivery. 
 
 ## 8.0 Conclusion and Request for Approval
 
