@@ -11,9 +11,9 @@ This proposal outlines a comprehensive phase-based approach designed to address 
 The foundational work completed in the first phase provides immediate value to the team by creating the clarity needed to identify larger, systemic challenges. This phase establishes a baseline from which we can build a resilient and efficient operational framework.
 
 The key goals of Phase One include:
-- Comprehensive Audit: A thorough review and audit of all documents from the repositories available to establish a comprehensive baseline of the current state of documentation.
-- Initial Document Consolidation: Existing documentation is synthesized to create new process manuals for key functional areas. Additionally, first-round edits are completed for complex topics across all teams.
-- Establishment of Standards: Critical governance tools are developed to drive consistency and quality. This includes the creation of a Style Guide and standardized templates for Process Manuals and Quick Reference Guides (QRGs), ensuring all future documentation is clear, accessible, and aligned with brand standards.
+- **Comprehensive Audit:** A thorough review and audit of all documents from the repositories available to establish a comprehensive baseline of the current state of documentation.
+- **Initial Document Consolidation:** Existing documentation is synthesized to create new process manuals for key functional areas. Additionally, first-round edits are completed for complex topics across all teams.
+- **Establishment of Standards:** Critical governance tools are developed to drive consistency and quality. This includes the creation of a Style Guide and standardized templates for Process Manuals and Quick Reference Guides (QRGs), ensuring all future documentation is clear, accessible, and aligned with brand standards.
   
 ## 3.0 Analysis of Unresolved Challenges and Associated Business Risks
 
